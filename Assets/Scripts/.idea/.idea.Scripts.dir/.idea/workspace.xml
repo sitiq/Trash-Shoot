@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5257a69f-3a9d-48a5-b7e3-4ef6d9e9c031" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RemController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GroundController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GasController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameControllerScipt.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../RollaBall/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FinishScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TrashScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Ice Bird/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarBodyScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Ice Bird/Assets/Scripts/BouncePad.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../UIandScreen/Assets/Scripts/GameScripts.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../RollaBall/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/BottleScript.cs" />
+        <option value="$PROJECT_DIR$/../CarBodyScript.cs" />
+        <option value="$PROJECT_DIR$/GasController.cs" />
+        <option value="$PROJECT_DIR$/TrashScript.cs" />
+        <option value="$PROJECT_DIR$/GroundController.cs" />
+        <option value="$PROJECT_DIR$/BounceScript.cs" />
+        <option value="$PROJECT_DIR$/CarController.cs" />
+        <option value="$PROJECT_DIR$/FinishScript.cs" />
+        <option value="$PROJECT_DIR$/GameControllerScipt.cs" />
+        <option value="$PROJECT_DIR$/CarBodyScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kaGneUSF5vpGo5HeK4TwPFBWvp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5257a69f-3a9d-48a5-b7e3-4ef6d9e9c031" name="Default Changelist" comment="" />
+      <created>1605931468419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605931468419</updated>
+      <workItem from="1605931493305" duration="13361000" />
+      <workItem from="1605957547396" duration="6805000" />
+      <workItem from="1605971617629" duration="2975000" />
+      <workItem from="1605976244188" duration="819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
